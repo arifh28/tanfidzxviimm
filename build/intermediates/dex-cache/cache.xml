@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Arifh\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-e66baa3524bb1d12a0a665f2d5f2cb0b23bd7710.jar"
+        jar="C:\Users\Arifh\AndroidStudioProjects\SlidingMenu\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03"/>
+    <item
+        dex="C:\Users\Arifh\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-928a407c533a966ca90792b51193193e03ac1c2b.jar"
+        jar="D:\FromUsersWindows\Downloads\adt-bundle-windows-x86-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35"/>
+    <item
+        dex="C:\Users\Arifh\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\release\classes-10bc8721854d89ee7239a60f796bc730d7380e8a.jar"
+        jar="C:\Users\Arifh\AndroidStudioProjects\SlidingMenu\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8"/>
+
+</pre-dex-items>
