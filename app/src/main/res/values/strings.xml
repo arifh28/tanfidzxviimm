@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tanfidz XVI IMM</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="exit">Oleh IMM Setengah Abad</string>
+    <string name="space">  </string>
+    <string name="versi">Versi 2.0</string>
+    <string name="search_hint">Pencarian Kata</string>
+    <string name="action_search">Pencarian Kata</string>
+    <string name="action_help">Bantuan</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Beranda</item>
+        <item>Anggaran Dasar</item>
+        <item>Anggaran Rumah Tangga</item>
+        <item>GBHO Muktamar</item>
+        <item>Rekomendasi Muktamar</item>
+        <item>Mekanisme Kerja Pimpinan</item>
+        <item>Tatib Pemilihan</item>
+        <item>Info Perkaderan Nasional</item>
+        <item>Link Ikatan dan Persyarikatan</item>
+        <item>Tentang Aplikasi</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_beranda</item>
+        <item>@drawable/ic_angda</item>
+        <item>@drawable/ic_angru</item>
+        <item>@drawable/ic_gbho</item>
+        <item>@drawable/ic_rekomendasi</item>
+        <item>@drawable/ic_mekanisme</item>
+        <item>@drawable/ic_tatib</item>
+        <item>@drawable/ic_infodam</item>
+        <item>@drawable/ic_link</item>
+        <item>@drawable/ic_tentang</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <!-- Deklarasi Setengah Abad IMM -->
+    <string name="beranda">DEKLARASI SETENGAH ABAD IMM</string>
+    <string name="beranda1">1. IMM adalah lembaga pengkaderan Islam yang berlandaskan ideologi
+Muhammadiyah.</string>
+<string name="beranda2">2. Pengkaderan IMM berbasis pada penguatan kapasitas individu dan gerakan
+komunal yang bertumpu pada kearifan lokal.</string>
+<string name="beranda3">3. Pengkaderan ikatan selalu menanamkan nilai-nilai moralitas profetik dan
+multikultural dalam rangka membumikan gerakan dakwah Islam.</string>
+    <string name="beranda4">4. IMM independen terhadap politik praktis.</string>
+    <string name="beranda5">5. Membumikan gerakan cinta masjid sebagai basis gerakan IMM.</string>
+<string name="beranda6">6. Orientasi gerakan IMM diarahkan pada penyelesaian problematika kebangsaan pada
+kemanusiaan universal.</string>
+
+    <!-- Anggaran Dasar Teks -->
+    <string name="a">MUQODIMAH</string>
+        <string name="mq">   “Dengan nama Allah yang Maha Pemurah, Maha Penyayang. Segala Puji bagi Allah yang mengasuh semesta alam, yang menguasai hari pembalasan. Hanya kepada engkau kami menyembah
+    dan hanya kepada engkau kami memohon pertolongan. Tunjukanlah kami jalan yang lurus yakni
+    jalan orang-orang yang telah engkau beri kenikmatan atas mereka, bukan jalan orang-orang yang
+    engkau murkai atas mereka dan bukan jalan orang-orang yang sesat”.</string>
+    <string name="mq2">   Bahwa sesungguhnya Islam adalah satu-satunya agama tauhid yang haq di sisi Allah dengan
+    berprinsip pada aqidah tauhid dan membawa misi sebagai hudan rahmatan lil’alamin (petunjuk dan
+    rahmat bagi sekalian alam). Oleh sebab itu, Islam harus ditegakan dan dilaksanakan dalam
+    kehidupan bersama ditengah-tengah masyarakat. Hal tersebut merupakan sunnatullah bagi
+    manusia, khususnya umat islam sebagai hamba Allah dan khalifah-Nya di muka bumi ini.
+    Persyarikatan Muhammadiyah sebagai gerakan dakwah Islam Amar Ma’ruf Nahi Mungkar
+    dan tajdid, adalah salah satu kreasi manusia Muslim dalam upaya menggerakan dan membimbing
+    umat agar mampu melaksanakan fungsi dan perannya. Dalam rangka kelangsungan hakikat dan
+    misinya, Muhammadiyah memerlukan tumbuhnya kader pelopor, pelangsung dan penyempurna
+    cita-cita sekaligus sebagai stabilisator, dinamisator dan gerakan perjuangannya.
+    Maka pada 29 Syawal 1384 H. bertepatan dengan tanggal 14 Maret 1964 M. didirikan Ikatan
+    Mahasiswa Muhammadiyah (IMM) sebagai salah satu organisasi otonom Muhammadiyah, yang
+    merupakan wadah perjuangan untuk menghimpun, menggerakkan dan membina potensi mahasiswa
+    Islam guna meningkatkan peran dan tanggung jawabnya sebagai kader persyarikatan, kader umat
+    dan kader bangsa, sehingga tumbuh kader-kader yang memiliki kerangka berpikir ilmu amaliyah dan
+    kader amal ilmiah sesuai dengan Kepribadian Muhammadiyah, Kesemuanya itu dilaksanakan secara
+    bersama dengan menjunjung tinggi musyawarah atas dasar iman dan taqwa serta hanya mengharap
+    ridha Allah SWT.</string>
+<string name="mq3">   Dengan dilandasi semangat ketaqwaan kepada Allah SWT, maka penyelenggaraan organisasi
+    Ikatan Mahasiswa Muhammadiyah (IMM) berpedoman kepada Anggaran Dasar sebagai berikut:</string>
+    <string name="b1">BAB I</string>
+    <string name="b2">NAMA, WAKTU, DAN KEDUDUAN</string>
+
+    <string name="b3">Pasal 1</string>
+<string name="b4">Organisasi ini bernama Ikatan Mahasiswa Muhammadiyah
+disingkat IMM adalah gerakan Mahasiswa
+Islam yang beraqidah Islam bersumber Al-Qur’an dan As-Sunah.</string>
+
+    <string name="b5">Pasal 2</string>
+<string name="b6">IMM didirikan pada tanggal 29 Syawal 1384 H bertepatan
+dengan tanggal 14 Maret 1964 M di
+Yogyakarta untuk waktu yang tidak terbatas.</string>
+
+    <string name="b7">Pasal 3</string>
+<string name="b8">Tempat kedudukan IMM adalah di tempat kedudukan Dewan
+Pimpinan Pusatnya. Tempat
+kedudukan Dewan Pimpinan Pusatnya seperti tersebut pada ayat 1 adalah di
+Ibukota Negara
+Republik Indonesia.</string>
+
+    <string name="b9">BAB II</string>
+    <string name="b10">ASAS, GERAKAN, DAN LAMBANG</string>
+
+    <string name="b11">Pasal 4</string>
+    <string name="b12">Ikatan Mahasiswa Muhammadiyah berazas Islam.</string>
+
+    <string name="b13">Pasal 5</string>
+<string name="b14">IMM adalah gerakan Mahasiswa Islam yang bergerak di bidang
+keagamaan, kemasyarakatan dan
+kemahasiswaan.</string>
+
+    <string name="b15">Pasal 6</string>
+<string name="b16">Lambang Ikatan Mahasiswa Muhammadiyah adalah pena yang
+berlapis dengan tiga warna, ditengah
+tertuliskan IMM, bunga melati dan pita yang tercantum tulisan arab fastabiqul khairat serta
+matahari bersinar.</string>
+
+    <string name="b17">BAB III</string>
+    <string name="b18">TUJUAN DAN USAHA</string>
+
+    <string name="b19">Pasal 7</string>
+<string name="b20">Tujuan IMM adalah mengusahakan terbentuknya akademisi Islam
+yang berakhlak mulia dalam
+rangka mencapai tujuan Muhammadiyah.</string>
+
+    <string name="b21">Pasal 8</string>
+<string name="b22">1. Membina para anggotanya menjadi kader persyarikatan
+Muhammadiyah, kader umat dan kader
+bangsa yang senantiasa setia terhadap keyakinan dan cita-citanya.</string>
+<string name="b23">2. Membina para anggotanya untuk selalu tertib dalam
+ibadah, tekun dalam studi dan
+mengamalkan ilmu pengetahuannya untuk melaksanakan ketaqwaan dan pengabdiannya
+kepada Allah SWT.</string>
+<string name="b24">3. Membantu para anggota khususnya dan mahasiswa pada
+umumnya dalam menyelesaikan
+kepentingannya.</string>
+<string name="b25">4. Mempergiat, mengefektifkan dan mengoptimalkan dakwah
+amar ma’ruf nahi munkar kepada
+masyarakat, teristimewa masyarakat mahasiswa.</string>
+<string name="b26">5. Segala usaha yang tidak menyalahi asas, gerakan dan
+tujuan organisasi dengan mengindahkan
+segala hukum yang berlaku dalam negara Republik Indonesia.</string>
+
+    <string name="b27">BAB IV</string>
+    <string name="b28">ORGANISASI</string>
+
+    <string name="b29">Pasal 9</string>
+    <string name="b30">Keanggotaan</string>
+    <string name="b31">1. Anggota IMM terdiri dari :</string>
+<string name="b32">a. Anggota Biasa, ialah mahasiswa Islam yang menyetujui
+asas dan tujuan IMM.</string>
+<string name="b33">b. Anggota Luar Biasa, ialah alumni IMM yang tetap setia
+kepada IMM dan Muhammadiyah.</string>
+<string name="b34">c. Anggota Kehormatan, ialah orang-orang yang dipandang
+berjasa mengembangkan dan
+melestarikan IMM.</string>
+<string name="b35">2. Hak dan Kewajiban serta peraturan lainnya tentang
+keanggotaan diatur dalam Anggaran Rumah
+Tangga.</string>
+
+    <string name="b36">Pasal 10</string>
+    <string name="b37">Susunan Organisasi</string>
+<string name="b38">Susunan Organisasi Ikatan Mahasiswa Muhammadiyah (IMM)
+terdiri atas ;</string>
+<string name="b39">1. Komisariat, ialah kesatuan anggota dalam suatu Kampus,
+Fakultas atau Akademi dan atau tempat
+tertentu.</string>
+<string name="b40">2. Cabang, ialah kesatuan Komisariat-Komisariat dalam suatu
+daerah kabupaten atau kota atau
+daerah tertentu.</string>
+<string name="b41">3. Daerah, ialah kesatuan Cabang-Cabang dalam suatu
+Propinsi.</string>
+<string name="b42">4. Pusat, ialah kesatuan Daerah-Daerah dalam Negara
+Republik Indonesia.</string>
+<string name="b43">5. Syarat dan Ketentuan pembentukan organisasi diatur dalam
+Anggaran Rumah Tangga.</string>
+
+    <string name="b44">BAB V</string>
+    <string name="b45">PIMPINAN</string>
+
+    <string name="b46">Pasal 11</string>
+    <string name="b47">Pimpinan Komisariat</string>
+<string name="b48">1. Pimpinan Komisariat adalah pimpinan tertinggi dalam
+komisariatnya yang memimpin dan
+melaksanakan kepemimpinan, peraturan-peraturan dan keputusan organisasi dalam
+lingkungannya.</string>
+<string name="b49">2. Ketua umum Pimpinan Komisariat karena jabatannya menjadi
+wakil Pimpinan Cabang di
+komisariatnya.</string>
+
+    <string name="b50">Pasal 12</string>
+    <string name="b51">Pimpinan Cabang</string>
+<string name="b52">1. Pimpinan Cabang adalah pimpinan tertinggi dalam
+Cabangnya yang memimpin dan
+melaksanakan kepemimpinan di atasnya, peraturan-peraturan dan
+keputusankeputusan
+organisasi kepada komisariat-komisariat di lingkungannya.</string>
+<string name="b53">2. Untuk mewakili kepentingan-kepentingan Cabang serta
+mengatur kerjasama antara Pimpinan
+Komisariat dalam suatu Perguruan Tinggi, Pimpinan Cabang dapat membentuk
+Koordinator
+Komisariat (KORKOM) yang ketentuan dan syarat diatur dalam peraturan
+organisasi.</string>
+<string name="b54">3. Ketua umum Pimpinan Cabang karena jabatannya menjadi
+wakil Dewan Pimpinan Daerah di
+cabangnya.</string>
+
+    <string name="b55">Pasal 13</string>
+    <string name="b56">Dewan Pimpinan Daerah</string>
+<string name="b57">1. Dewan Pimpinan Daerah adalah pimpinan tertinggi dalam
+daerahnya yang memimpin dan
+melaksanakan kepemimpinan di atasnya, peraturan-peraturan dan
+keputusankeputusan
+organisasi dalam lingkungannya.</string>
+<string name="b58">2. Ketua Umum Dewan Pimpinan Daerah karena jabatannya
+menjadi wakil Dewan Pimpinan Pusat
+di daerahnya.</string>
+
+    <string name="b59">Pasal 14</string>
+    <string name="b60">Dewan Pimpinan Pusat</string>
+<string name="b61">Dewan Pimpinan Pusat adalah pimpinan tertinggi yang
+memimpin organisasi.</string>
+
+    <string name="b62">Pasal 15</string>
+    <string name="b63">Pergantian dan Pemilihan Pimpinan</string>
+<string name="b64">1. Pergantian Pimpinan dilaksanakan pada setiap musyawarah
+tertinggi di masing-masing tingkat
+pimpinan.</string>
+<string name="b65">2. Pemilihan pimpinan diatur dalam Anggaran Rumah
+Tangga.</string>
+
+    <string name="b66">Pasal 16</string>
+    <string name="b67">Unsur Pembantu pimpinan</string>
+<string name="b68">1. Untuk melaksanakan tugas dan kewajibannya pimpinan dapat
+membentuk unsur pembantu
+pimpinan yang diserahi tugas-tugas khusus.</string>
+<string name="b69">2. Syarat dan ketentuan pembentukan Unsur Pembantu Pimpinan
+diatur dalam Anggaran Rumah
+Tangga.</string>
+
+    <string name="b70">BAB VI</string>
+    <string name="b71">MASA JABATAN</string>
+
+    <string name="b72">Pasal 17</string>
+<string name="b73">1. Badan Pimpinan Harian (BPH) Pimpinan Komisariat dipilih
+untuk masa jabatan 1 (satu ) tahun.</string>
+<string name="b74">2. Badan Pimpinan Harian (BPH) Pimpinan Cabang dipilih
+untuk masa jabatan 1 ( satu) tahun.</string>
+<string name="b75">3. Badan Pimpinan Harian (BPH) Dewan Pimpinan Daerah
+dipilih untuk masa jabatan 2 ( dua) tahun.</string>
+<string name="b76">4. Badan Pimpinan Harian (BPH) Dewan Pimpinan Pusat dipilih
+untuk masa jabatan 2 ( dua) tahun.</string>
+
+    <string name="b77">BAB VII</string>
+    <string name="b78">PERMUSYAWARATAN</string>
+    <string name="b79">Pasal 18</string>
+    <string name="b80">Permusyawaratan terdiri dari :</string>
+<string name="b81">1. MUKTAMAR, ialah permusyawaratan tertinggi dalam organisasi yang diikuti oleh anggota Dewan Pimpinan Pusat, utusan-utusan Dewan Pimpinan Daerah, dan utusan-utusan
+Pimpinan Cabang.</string>
+<string name="b82">2. TANWIR, ialah permusyawaratan tertinggi dalam organisasi
+di bawah Muktamar yang diikuti oleh
+Dewan Pimpinan Pusat, dan utusan-utusan Dewan Pimpinan Daerah untuk
+membicarakan
+kepentingan-kepentingan organisasi yang tidak dapat ditangguhkan sampai
+berlangsung
+Muktamar, diadakan sekurang-kurangnya 1 (satu) kali dalam satu periode
+muktamar.</string>
+<string name="b83">3. MUSYAWARAH DAERAH, ialah permusyawaratan tertinggi dalam
+Daerah, yang diikuti oleh
+anggota Dewan Pimpinan Daerah, utusan-utusan Pimpinan Cabang, dan utusan-
+utusan Pimpinan
+Komisariat, diadakan 2 (dua) tahun sekali.</string>
+<string name="b84">4. MUSYAWARAH CABANG, ialah permusyawaratan tertinggi dalam
+Cabang yang diikuti oleh
+anggota Pimpinan Cabang, dan utusan-utusan Pimpinan Komisariat, diadakan 1
+(satu) tahun
+sekali.</string>
+<string name="b85">5. MUSYAWARAH KOMISARIAT, ialah permusyawaratan tertinggi
+dalam Komisariat yang diikuti
+oleh Pimpinan Komisariat dan seluruh anggota, diadakan 1(satu) tahun
+sekali.</string>
+<string name="b86">6. MUSYAWARAH LUAR BIASA, ialah permusyawaratan yang
+dilaksanakan apabila organisasi
+dihadapkan pada situasi kepemimpinan yang tidak mendukung untuk berlanjutnya
+kepemimpinan karena hal-hal yang mendesak dan tidak bisa ditangguhkan dengan
+disepakati dalam rapat pleno yang dihadiri oleh 3/4 oleh pimpinan
+dibawahnya.</string>
+
+    <string name="b87">Pasal 19</string>
+    <string name="b88">Keputusan</string>
+<string name="b89">1. Musyawarah dapat berlangsung dengan tidak memandang
+jumlah yang hadir, asal yang
+berkepentingan telah diundang secara sah.</string>
+<string name="b90">2. Keputusan musyawarah diusahakan dengan suara bulat.
+Apabila tidak sah dilaksanakan dengan
+lobying dan apabila tidak sah terpaksa diadakan pemungutan suara, maka
+keputusan diambil
+dengan suara terbanyak mutlak.</string>
+<string name="b91">3. Keputusan Muktamar dan Tanwir berlaku setelah disetujui
+dan disahkan oleh Pimpinan Pusat
+Muhammadiyah, dan ditanfidzkan oleh DPP IMM.</string>
+<string name="b92">4. Keputusan Musyawarah Daerah berlaku setelah disetujui
+oleh Pimpinan Wilayah Muhammadiyah, disahkan oleh Dewan Pimpinan Pusat IMM,
+dan ditanfidzkan oleh Dewan Pimpinan Daerah IMM.</string>
+<string name="b93">5. Keputusan Musyawarah Cabang berlaku setelah disetujui
+oleh Pimpinan Daerah Muhammadiyah,
+disahkan oleh Dewan Pimpinan Daerah IMM, dan ditanfidzkan oleh Pimpinan Cabang
+IMM.</string>
+<string name="b94">6. Keputusan Musyawarah Komisariat berlaku setelah disahkan
+oleh Pimpinan Cabang IMM, dan ditanfidzkan Pimpinan Komisariat IMM.</string>
+<string name="b95">7. Mekanisme pengesahan keputusan musyawarah ditetapkan
+dalam Anggaran Rumah Tangga.</string>
+
+    <string name="b96">BAB VIII</string>
+    <string name="b97">KEUANGAN</string>
+
+    <string name="b98">Pasal 20</string>
+    <string name="b99">Keuangan</string>
+    <string name="b100">Keuangan organisasi diperoleh dari:</string>
+    <string name="b101">1. Uang Pangkal dan Iuran.</string>
+<string name="b102">2. Sumber-sumber lain yang halal dan tidak
+mengikat.</string>
+
+    <string name="b103">BAB IX</string>
+    <string name="b104">ANGGARAN RUMAH TANGGA</string>
+
+    <string name="b105">Pasal 21</string>
+<string name="b106">Hal-hal yang belum diatur dalam Anggaran Dasar, akan
+diatur dalam Anggaran Rumah Tangga.
+Anggaran Rumah Tangga dapat diubah oleh Dewan Pimpinan Pusat dengan tidak
+menyalahi
+Anggaran Dasar, kemudian disahkan oleh Muktamar.</string>
+
+    <string name="b107">BAB X</string>
+    <string name="b108">PERUBAHAN ANGGARAN DASAR</string>
+
+    <string name="b109">Pasal 22</string>
+<string name="b110">Anggaran Dasar hanya dapat diubah oleh Muktamar dan
+perubahannya sah apabila diputuskan
+dengan suara sekurang-kurangnya 2/3 dari jumlah anggota Muktamar yang hadir,
+yang memang
+sengaja diundang untuk membicarakan perubahan Anggaran Dasar.</string>
+
+    <string name="b111">BAB XI</string>
+    <string name="b112">PEMBUBARAN</string>
+
+    <string name="b113">Pasal 23</string>
+<string name="b114">Pembubaran IMM menjadi wewenang kedaulatan Muktamar,
+berdasarkan kesepakatan bersama.
+Setelah IMM dibubarkan segala kewajiban dan aset menjadi tanggung jawab
+Muhammadiyah.</string>
+
+    <string name="b115">BAB XII</string>
+    <string name="b116">PENUTUP</string>
+
+    <string name="b117">Pasal 24</string>
+<string name="b118">Anggaran Dasar ini menjadi pengganti Anggaran Dasar
+sebelumnya, dan telah disahkan oleh
+Muktamar XVI di Surakarta, Jawa Tengah dan mulai berlaku sejak disahkannya
+oleh Pimpinan Pusat
+Muhammadiyah.</string>
+
+    <string name="b119">Ditetapkan di : Solo - Jawa Tengah</string>
+    <string name="b120">Tanggal : 30 Mei 2014</string>
+
+
+</resources>

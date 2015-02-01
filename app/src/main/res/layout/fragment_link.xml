@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/list"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/padding"
+    android:divider="@color/divider_list_view"
+    android:dividerHeight="2dp"
+    android:listSelector="@drawable/link_list_selector"
+    android:scrollbars="none"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/paddingbottom">
+
+</ListView>
